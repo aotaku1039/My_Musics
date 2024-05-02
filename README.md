@@ -7,3 +7,5 @@
 切ない花々 2h : Oppressive_Flowers.mp3
 
 ぶつかる想い 2h : Mind_Colliding_2h.mp3
+
+ワンコード･ワン教訓 2h : OneChord_OneLesson_2h.mp3
