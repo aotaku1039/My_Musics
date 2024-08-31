@@ -8,4 +8,6 @@
 
 ぶつかる想い 2h : Mind_Colliding_2h.mp3
 
+やるせない気持ち 2h : Blue_Mood_2h.mp3
+
 ワンコード･ワン教訓 2h : OneChord_OneLesson_2h.mp3
